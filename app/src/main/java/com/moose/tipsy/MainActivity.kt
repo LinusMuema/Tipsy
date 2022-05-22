@@ -10,7 +10,7 @@ import com.moose.tipsy.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
-    // TODO: Get the viewmodel
+    // TODO 1 : Get the viewmodel
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -18,10 +18,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // TODO: Listen to the values from the viewmodel
+        // TODO 2 : Listen to the values from the viewmodel
 
-        // TODO: Implement the input listener
+        // TODO 3 : Implement the input listener
 
-        // TODO: Add the input listener to our inputs
+        // TODO 4 : Add the input listener to our inputs
     }
 }

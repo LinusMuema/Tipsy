@@ -6,9 +6,9 @@ import androidx.lifecycle.ViewModel
 
 class MainViewmodel: ViewModel() {
 
-    // TODO: add the result variables
+    // TODO 1 : add the result variables
 
     fun calculateTip(bill: Double?, percent: Double?) {
-        // TODO: Calculate the tip and total
+        // TODO 2 : Calculate the tip and total
     }
 }
