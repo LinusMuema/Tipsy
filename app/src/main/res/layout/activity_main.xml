@@ -41,6 +41,7 @@
         app:layout_constraintTop_toBottomOf="@+id/bill_label">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/bill_input"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="number"
@@ -71,6 +72,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tip_label">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tip_input"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:inputType="number"
@@ -101,6 +103,7 @@
         app:layout_constraintTop_toBottomOf="@+id/amount_label">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/amount_input"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:enabled="false"
@@ -138,6 +141,7 @@
         app:layout_constraintTop_toBottomOf="@+id/total_label">
 
         <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/total_input"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:enabled="false"
