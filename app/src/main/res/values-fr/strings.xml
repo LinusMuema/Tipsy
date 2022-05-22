@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tipsy</string>
+    <string name="total_hint">Facture totale</string>
+    <string name="amount_hint">Facture de pourboire</string>
+    <string name="default_amount">0</string>
+    <string name="tip_hint">Pourboires (%)</string>
+    <string name="default_tip">15</string>
+    <string name="bill_hint">Facture</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tipsy</string>
+    <string name="bill_hint">Rechnung</string>
+    <string name="default_tip">15</string>
+    <string name="tip_hint">Trinkgeld (%)</string>
+    <string name="default_amount">0</string>
+    <string name="amount_hint">Trinkgeld Betrag</string>
+    <string name="total_hint">Gesamte Rechnung</string>
+</resources>

@@ -6,5 +6,4 @@
     <string name="default_amount">0</string>
     <string name="amount_hint">Tip amount</string>
     <string name="total_hint">Total Bill</string>
-    <string name="calculate_button">Calculate</string>
 </resources>
